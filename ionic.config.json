@@ -1,5 +1,7 @@
 {
   "name": "ngrxIssue",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }

@@ -1,0 +1,8 @@
+{
+  "appId": "com.dobossy.ngrxissue",
+  "appName": "ngrxIssue",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
